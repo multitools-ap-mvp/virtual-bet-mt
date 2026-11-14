@@ -4,7 +4,9 @@
 
 ## Built By Apex Multi Tools 
 
-**Current Version - V0.1.0**
+**Current Version - V0.3.0-dev**
+
+**Gateway @ https://apexmultitools.se/** 
 
 **Contact @ info@apexmultitools.se** 
 

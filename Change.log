@@ -1,3 +1,6 @@
+# ChangeLog for Virtual Currency Betting Platform 
+**hah** 
+
 # V0.2.0 Changes
 Auth and the ledger with daily claim are written and in apex-betting-platform-v0.0.2-dev. I haven't run any of it. The tests exist, but nobody has executed them or the typecheck yet.
 
